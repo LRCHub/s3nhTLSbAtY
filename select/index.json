@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "獣ゆく細道",
+  "base_artist": "Sheena Ringo、Hiroji Miyamoto",
+  "createdAt": "2025-12-01T09:49:00.176110Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "獣ゆく細道",
+      "artist": "Sheena Ringo feat. Hiroji Miyamoto",
+      "has_synced": true,
+      "path": "select/01_獣ゆく細道_Sheena_Ringo_feat._Hiroji_Miyamoto.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kemono Yuku Hosomichi (ft. Hiroji Miyamoto) [獣ゆく細道 (ft. 宮本浩次)]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/02_Kemono_Yuku_Hosomichi_(ft._Hiroji_Miyamoto)_[獣ゆく細道_(ft._宮本浩次)]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "獣ゆく細道",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/03_獣ゆく細道_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "獣ゆく細道 - The Narrow Way",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_獣ゆく細道_-_The_Narrow_Way_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "獣ゆく細道",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/05_獣ゆく細道_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "獣ゆく細道",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/06_獣ゆく細道_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "獣ゆく細道 (椎名林檎と宮本浩次)",
+      "artist": "Shiina Ringo (椎名 林檎)",
+      "has_synced": false,
+      "path": "select/07_獣ゆく細道_(椎名林檎と宮本浩次)_Shiina_Ringo_(椎名_林檎).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "獣ゆく細道",
+      "artist": "椎名林檎, 宮本浩次",
+      "has_synced": true,
+      "path": "select/08_獣ゆく細道_椎名林檎,_宮本浩次.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "獣ゆく細道",
+      "artist": "椎名林檎と宮本浩次",
+      "has_synced": false,
+      "path": "select/pl_01_獣ゆく細道_椎名林檎と宮本浩次.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "獣ゆく細道",
+      "artist": "椎名林檎と宮本浩次",
+      "has_synced": false,
+      "path": "select/pl_02_獣ゆく細道_椎名林檎と宮本浩次.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "獣ゆく細道",
+      "artist": "椎名林檎と宮本浩次",
+      "has_synced": false,
+      "path": "select/pl_03_獣ゆく細道_椎名林檎と宮本浩次.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "獣ゆく細道",
+      "artist": "椎名林檎と宮本浩次",
+      "has_synced": false,
+      "path": "select/pl_04_獣ゆく細道_椎名林檎と宮本浩次.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "獣ゆく細道",
+      "artist": "椎名林檎と宮本浩次",
+      "has_synced": false,
+      "path": "select/pl_05_獣ゆく細道_椎名林檎と宮本浩次.txt"
+    }
+  ]
+}
